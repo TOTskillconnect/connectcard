@@ -1,0 +1,30 @@
+{
+  "name": "connectcard",
+  "version": "1.0.0",
+  "description": "A branded Linktree-style hub for SkillConnect",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "linktree",
+    "skillconnect"
+  ],
+  "author": "SkillConnect",
+  "license": "MIT"
+} 

@@ -1,0 +1,55 @@
+{
+  "profile": {
+    "name": "SkillConnect",
+    "tagline": "Hiring Simplified. Results Amplified.",
+    "image": "/logo_icon.png"
+  },
+  "featuredCards": [
+    {
+      "title": "Join Early Adopter Program",
+      "icon": "🚀",
+      "url": "https://skillconnect.app/early-adopter"
+    },
+    {
+      "title": "Team Vibe Checker",
+      "description": "Know your team, hire who fits.",
+      "icon": "🔍",
+      "url": "https://skillconnect.app/vibe-checker"
+    },
+    {
+      "title": "Role Fit Predictor",
+      "description": "Drop a title, see who fits.",
+      "icon": "🧠",
+      "url": "https://skillconnect.app/fit-predictor"
+    }
+  ],
+  "links": [
+    {
+      "label": "Visit Our Blog",
+      "icon": "📝",
+      "url": "https://skillconnect.app/blog"
+    },
+    {
+      "label": "Book a Demo",
+      "icon": "📅",
+      "url": "https://skillconnect.app/demo"
+    },
+    {
+      "label": "Access Our Resources",
+      "icon": "🎯",
+      "url": "https://skillconnect.app/tools"
+    }
+  ],
+  "socialMedia": [
+    {
+      "platform": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://linkedin.com/company/skillconnect"
+    },
+    {
+      "platform": "Facebook",
+      "icon": "facebook",
+      "url": "https://facebook.com/skillconnect"
+    }
+  ]
+} 
