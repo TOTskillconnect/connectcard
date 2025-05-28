@@ -34,7 +34,7 @@ function App() {
   };
   
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex flex-col items-center px-4 py-8 transition-colors duration-200">
+    <div className="min-h-screen bg-gray-50 dark:bg-gradient-purple flex flex-col items-center px-4 py-8 transition-colors duration-200">
       <div className="w-full max-w-md mx-auto">
         
         {/* Theme Toggle */}
@@ -70,7 +70,7 @@ function App() {
         
         {/* Social Media Heading */}
         <div className="mt-8 mb-4 text-center">
-          <h3 className="text-lg font-medium text-gray-800 dark:text-gray-200 flex items-center justify-center">
+          <h3 className="text-lg font-medium text-gray-800 dark:text-lavender-100 flex items-center justify-center">
             <span className="mr-2">📱</span>
             Follow us on socials
           </h3>
@@ -80,7 +80,7 @@ function App() {
         <SocialIcons socialMedia={config.socialMedia} />
         
         {/* Footer */}
-        <footer className="text-center text-xs text-gray-400 dark:text-gray-500 mt-6">
+        <footer className="text-center text-xs text-gray-400 dark:text-lavender-200 mt-6">
           Built with ❤️ by SkillConnect
         </footer>
       </div>

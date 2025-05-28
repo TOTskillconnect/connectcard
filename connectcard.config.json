@@ -2,7 +2,7 @@
   "profile": {
     "name": "SkillConnect",
     "tagline": "Hiring Simplified. Results Amplified.",
-    "image": "/logo_icon.png"
+    "image": "/icon-links.png"
   },
   "featuredCards": [
     {
@@ -14,13 +14,13 @@
       "title": "Team Vibe Checker",
       "description": "Know your team, hire who fits.",
       "icon": "🔍",
-      "url": "https://skillconnect.app/vibe-checker"
+      "url": "https://www.skillconnect.app/team-vibe-checker"
     },
     {
-      "title": "Role Fit Predictor",
+      "title": "Role Fit Scan",
       "description": "Drop a title, see who fits.",
       "icon": "🧠",
-      "url": "https://skillconnect.app/fit-predictor"
+      "url": "https://www.skillconnect.app/candidate-fit-scan"
     }
   ],
   "links": [
@@ -33,23 +33,18 @@
       "label": "Book a Demo",
       "icon": "📅",
       "url": "https://skillconnect.app/demo"
-    },
-    {
-      "label": "Access Our Resources",
-      "icon": "🎯",
-      "url": "https://skillconnect.app/tools"
     }
   ],
   "socialMedia": [
     {
       "platform": "LinkedIn",
       "icon": "linkedin",
-      "url": "https://linkedin.com/company/skillconnect"
+      "url": "https://ca.linkedin.com/company/skillconnecthq"
     },
     {
       "platform": "Facebook",
       "icon": "facebook",
-      "url": "https://facebook.com/skillconnect"
+      "url": "https://www.facebook.com/people/SkillConnect/61555270384699/"
     }
   ]
 } 

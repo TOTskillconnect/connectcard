@@ -7,15 +7,15 @@ const FeaturedCard = ({ title, description, icon, url }) => {
       target="_blank"
       rel="noopener noreferrer"
       className="block w-full mb-4 p-4 bg-white dark:bg-gray-800 rounded-xl shadow-md 
-                border border-gray-100 dark:border-gray-700 hover:shadow-lg
-                transition-all duration-200 hover:border-amber-200 dark:hover:border-amber-500"
+                border border-gray-100 dark:border-lavender-200 hover:shadow-lg
+                transition-all duration-200 hover:border-lavender-300 dark:hover:border-lavender-300"
     >
       <div className="flex items-start">
         {icon && <span className="text-2xl mr-2 flex-shrink-0">{icon}</span>}
         <div>
-          <h3 className="font-semibold text-base text-gray-900 dark:text-white">{title}</h3>
+          <h3 className="font-semibold text-base text-gray-900 dark:text-lavender-100">{title}</h3>
           {description && (
-            <p className="text-gray-600 dark:text-gray-300 text-sm mt-1">{description}</p>
+            <p className="text-gray-600 dark:text-lavender-200 text-sm mt-1">{description}</p>
           )}
         </div>
       </div>
