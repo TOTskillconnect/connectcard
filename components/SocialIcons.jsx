@@ -35,9 +35,9 @@ const SocialIcons = ({ socialMedia }) => {
           href={item.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="text-lavender-300 dark:text-lavender-200 hover:text-amber-400 dark:hover:text-amber-400
-                   bg-white dark:bg-gray-800 p-3 rounded-full shadow-md 
-                   border border-gray-200 dark:border-lavender-200
+          className="text-lavender-200 hover:text-amber-400
+                   bg-gray-800 p-3 rounded-full shadow-md 
+                   border border-lavender-200
                    transition-all duration-200 
                    hover:shadow-lg hover:scale-110"
           aria-label={`Visit our ${item.platform} page`}

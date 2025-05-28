@@ -7,9 +7,9 @@ const LinkButton = ({ label, icon, url }) => {
       target="_blank"
       rel="noopener noreferrer"
       className="flex items-center justify-center w-full py-3 px-4 mb-3 
-                bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 active:bg-gray-100 dark:active:bg-gray-600
-                text-gray-800 dark:text-lavender-100 font-medium rounded-lg 
-                border border-gray-200 dark:border-lavender-200 shadow-sm
+                bg-gray-800 hover:bg-gray-700 active:bg-gray-600
+                text-lavender-100 font-medium rounded-lg 
+                border border-lavender-200 shadow-sm
                 transition-all duration-200 hover:scale-[1.02] 
                 focus:outline-none focus:ring-2 focus:ring-amber-400"
     >

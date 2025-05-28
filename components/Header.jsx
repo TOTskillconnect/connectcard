@@ -7,11 +7,11 @@ const Header = ({ profile }) => {
         <img 
           src={profile.image} 
           alt={profile.name}
-          className="w-full h-full object-cover rounded-full shadow-md border border-gray-100 dark:border-gray-700"
+          className="w-full h-full object-cover rounded-full shadow-md border border-lavender-200"
         />
       </div>
-      <h1 className="text-2xl font-bold text-center mb-1 text-gray-900 dark:text-white">{profile.name}</h1>
-      <p className="text-sm text-gray-600 dark:text-gray-400 text-center">{profile.tagline}</p>
+      <h1 className="text-2xl font-bold text-center mb-1 text-white">{profile.name}</h1>
+      <p className="text-sm text-lavender-200 text-center">{profile.tagline}</p>
     </header>
   );
 };
