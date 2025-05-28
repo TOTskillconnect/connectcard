@@ -14,14 +14,21 @@
       "title": "Team Vibe Checker",
       "description": "Know your team, hire who fits.",
       "icon": "🔍",
-      "url": "https://www.skillconnect.app/team-vibe-checker"
+      "url": "https://www.skillconnect.app/team-vibe-checker/chat"
     },
     {
       "title": "Role Fit Scan",
       "description": "Drop a title, see who fits.",
       "icon": "🧠",
       "url": "https://www.skillconnect.app/candidate-fit-scan"
+    },
+    {
+      "title": "Join Our Talent Network",
+      "description": "Get connected with opportunities.",
+      "icon": "🌐",
+      "url": "https://chat.whatsapp.com/JEoby2xYyh4B6yAibkLfBD"
     }
+
   ],
   "links": [
     {
